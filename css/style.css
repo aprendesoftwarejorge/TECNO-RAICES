@@ -5,10 +5,15 @@ body{
 /* menu */
 
 #menu{
-    background-color: #2C9DD6 !important;
+    background-color: #FFF3DB !important;
 }
 .nav-link{
-    color:#fff !important;
+    color:#16D10B !important;
+    font-size: 1.5rem;
+}
+.nav-link:hover{
+    color:#000000 !important;
+    font-size: 1.5rem;
 }
 
 .alto{
@@ -81,7 +86,10 @@ body{
 }
 
 
-
+.logo{
+    width: 100%;
+    height: 150px;
+}
 
 /* footer */
 #page-footer{
